@@ -16,12 +16,9 @@ main:
   - name: Projects
     url: '#projects'
     weight: 40
-  - name: Talks
-    url: '#talks'
-    weight: 50
   - name: Collaborations
     url: '#collaborations'
-    weight: 60
+    weight: 50
   - name: Contact
     url: '#contact'
     weight: 60
