@@ -14,9 +14,7 @@ organizations:
   url: http://vrlab.buaa.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include the intersection of machine learning, deep learning, pattern recognition, and statistical modeling/inference with applications for computer vision, computational phothgraphy, low-level vision, human-computer interaction.
-
-I serve as a reviewer for international conferences and journals, *e.g.*, CVPR, ICCV, ACM MM, IJCV, PR, *etc.*. More details can be found in my CV.
+bio: My research interests include the intersection of machine learning, deep learning, pattern recognition, and statistical modeling/inference with applications for computer vision, computational phothgraphy, low-level vision, human-computer interaction. I serve as a reviewer for international conferences and journals, *e.g.*, CVPR, ICCV, ACM MM, IJCV, PR, *etc.*. More details can be found in my CV.
 
 # Interests to show in About widget
 interests:
