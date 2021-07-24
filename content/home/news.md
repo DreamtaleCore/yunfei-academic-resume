@@ -1,22 +1,19 @@
 ---
 # An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: portfolio
+widget: pages
 
 # This file represents a page section.
 headless: true
-
+active: true
 # Order that this section appears on the page.
-weight: 65
+weight: 25
 
 title: Recent News
 subtitle: ''
 
-item:
-- date: "Jul, 2021"
-  title: One ICCV paper has been accepted.
-- date: "Jul, 2020"
-  title: The Training code and dataset of our USI3D has been released.
-- date: "Mar, 2020"
-  title: One CVPR paper has been accepted.
+design:
+- [Jul, 2021] One ICCV paper has been accepted.
+- [Jul, 2020] The Training code and dataset of our USI3D has been released.
+- [Mar, 2020] One CVPR paper has been accepted.
 ---

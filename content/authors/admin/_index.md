@@ -38,7 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:lyunfei.buaa.edu.cn'
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=B1Z1vTMAAAAJ
@@ -67,5 +67,5 @@ I am currently a forth-year Ph.D student at Beihang University, Under the superv
 
 **My research interests** include the intersection of machine learning, deep learning, pattern recognition, and statistical modeling/inference with applications for computer vision, computational phothgraphy, low-level vision, human-computer interaction. 
 
-I serve as a reviewer for international conferences and journals, *e.g.*, CVPR, ICCV, ACM MM, IJCV, PR, *etc.*. More details can be found in my CV.
+I serve as a reviewer for international conferences and journals, *e.g.*, CVPR, ICCV, ACM MM, IJCV, PR, *etc.*. More details can be found in my [CV](cv/cv_yunfei.pdf).
 
