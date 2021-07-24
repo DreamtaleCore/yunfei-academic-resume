@@ -11,7 +11,7 @@ main:
     url: '#news'
     weight: 20
   - name: Publications
-    url: '#featured'
+    url: '#publications'
     weight: 30
   - name: Projects
     url: '#projects'
@@ -26,7 +26,7 @@ main:
     url: '#contact'
     weight: 60
   - name: CV
-    url: '#cv'
+    url: 'publication/example/example.pdf'
     weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
