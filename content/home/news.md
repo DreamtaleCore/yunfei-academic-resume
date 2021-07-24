@@ -13,7 +13,7 @@ title: Recent News
 subtitle: ''
 
 items:
-  - "[Jul, 2021]" One ICCV paper has been accepted.
-  - "[Jul, 2020]" The Training code and dataset of our USI3D has been released.
-  - "[Mar, 2020]" One CVPR paper has been accepted.
+  - name: "[Jul, 2021]" One ICCV paper has been accepted.
+  - name: "[Jul, 2020]" The Training code and dataset of our USI3D has been released.
+  - name: "[Mar, 2020]" One CVPR paper has been accepted.
 ---
