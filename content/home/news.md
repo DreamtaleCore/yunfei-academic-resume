@@ -12,8 +12,8 @@ weight: 25
 title: Recent News
 subtitle: ''
 
-design:
-- [Jul, 2021] One ICCV paper has been accepted.
-- [Jul, 2020] The Training code and dataset of our USI3D has been released.
-- [Mar, 2020] One CVPR paper has been accepted.
+items:
+- "[Jul, 2021]" One ICCV paper has been accepted.
+- "[Jul, 2020]" The Training code and dataset of our USI3D has been released.
+- "[Mar, 2020]" One CVPR paper has been accepted.
 ---
