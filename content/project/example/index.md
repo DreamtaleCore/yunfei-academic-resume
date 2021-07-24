@@ -3,7 +3,7 @@ slides: example
 url_pdf: ""
 summary: An example of using the in-built project page.
 authors:
-  - Yunfei Liu
+  - "**Yunfei Liu**"
   - Xingju Ma
   - James Bailey
   - Feng Lu
@@ -29,7 +29,7 @@ links:
     name: Project
 image:
   caption: Teaser Image
-  focal_point: Smart
+  focal_point: Right
   filename: featured.png
 url_code: ""
 ---
