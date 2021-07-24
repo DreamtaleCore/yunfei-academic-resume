@@ -11,6 +11,8 @@ weight: 25
 
 title: Recent News
 subtitle: ''
+
+content: ''
 ---
 
 - [Jul, 2021] One ICCV paper has been accepted.
