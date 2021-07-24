@@ -13,9 +13,6 @@ organizations:
 - name: State Key Laboratory of Virtual Reality Technology and Systems
   url: http://vrlab.buaa.edu.cn/
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include the intersection of machine learning, deep learning, pattern recognition, and statistical modeling/inference with applications for computer vision, computational phothgraphy, low-level vision, human-computer interaction. I serve as a reviewer for international conferences and journals, *e.g.*, CVPR, ICCV, ACM MM, IJCV, PR, *etc.*. More details can be found in my CV.
-
 # Interests to show in About widget
 interests:
 - Computational Photography
@@ -68,4 +65,7 @@ highlight_name: false
 
 I am currently a forth-year Ph.D student at Beihang University, Under the supervision of Prof. [Feng Lu](http://shi.buaa.edu.cn/lufeng/en/index.htm). Previously, I received my BSc degree of Computer Science from Beijing Institute of Teachnology in 2017. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+**My research interests** include the intersection of machine learning, deep learning, pattern recognition, and statistical modeling/inference with applications for computer vision, computational phothgraphy, low-level vision, human-computer interaction. 
+
+I serve as a reviewer for international conferences and journals, *e.g.*, CVPR, ICCV, ACM MM, IJCV, PR, *etc.*. More details can be found in my CV.
+
