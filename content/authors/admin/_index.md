@@ -37,9 +37,9 @@ superuser: true
 highlight_name: false
 ---
 
-I am currently a forth-year Ph.D student at Beihang University, Under the supervision of Prof. [Feng Lu](http://shi.buaa.edu.cn/lufeng/en/index.htm). Previously, I received my BSc degree of Computer Science from Beijing Institute of Teachnology in 2017. 
+I am currently a forth-year Ph.D student at Beihang University, under the supervision of Prof. [Feng Lu](http://shi.buaa.edu.cn/lufeng/en/index.htm). Previously, I received my BSc degree of Computer Science from Beijing Institute of Teachnology in 2017. 
 
-**My research interests** include the intersection of machine learning, deep learning, pattern recognition, and statistical modeling/inference with applications for computer vision, computational phothgraphy, low-level vision, human-computer interaction. 
+**My research interests** include the intersection of machine learning, deep learning, pattern recognition, and statistical modeling/inference with applications for computer vision, computational phothgraphy, low-level vision, human-computer interaction, and AR/MR. 
 
 I serve as a reviewer for international conferences and journals, *e.g.*, CVPR, ICCV, ACM MM, IJCV, PR, *etc.*. More details can be found in my [CV](cv/cv_yunfei.pdf).
 
