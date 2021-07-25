@@ -16,11 +16,11 @@ main:
   - name: Projects
     url: '#projects'
     weight: 40
+  - name: Contests
+    url: '#contests'
+    weight: 50
   - name: Collaborations
     url: '#collaborations'
-    weight: 50
-  - name: Contact
-    url: '#contact'
     weight: 60
   - name: CV
     url: 'cv/cv_yunfei.pdf'
