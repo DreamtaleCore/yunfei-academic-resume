@@ -47,7 +47,7 @@ links:
   - icon: ""
     icon_pack: fab
     name: PDF
-    url: tbd
+    url: http://arxiv.org/abs/2107.13780
   - url: https://github.com/DreamtaleCore/PnP-GA
     name: Code
     icon_pack: fab
