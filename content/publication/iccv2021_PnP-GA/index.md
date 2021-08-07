@@ -3,7 +3,7 @@ title: Generalizing Gaze Estimation with Outlier-guided Collaborative Adaptation
 publication_types:
   - "1"
 authors:
-  - "**Yunfei Liu**"
+  - "**Yunfei Liu**" 
   - Ruicong Liu
   - Haofei Wang
   - Feng Lu
