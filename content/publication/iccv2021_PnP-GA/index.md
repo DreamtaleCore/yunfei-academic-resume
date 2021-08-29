@@ -9,7 +9,7 @@ authors:
   - Feng Lu
 
 summary: "IEEE/CVF International Conference on Computer Vision *(ICCV-2021)*"
-publication: IEEE Conference on Computer Vision and Pattern Recognition
+publication: IEEE/CVF International Conference on Computer Vision
 publication_short: ICCV
 abstract: "Deep neural networks have significantly improved
 appearance-based gaze estimation accuracy. However, it
