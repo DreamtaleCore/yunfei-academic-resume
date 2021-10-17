@@ -14,6 +14,7 @@ subtitle: ''
 
 ---
 
+- [Oct, 2021]: One [BMVC](https://www.bmvc2021.com/) paper has been accepted.
 - [Aug, 2021]: Two [ISMAR](https://ismar21.org/) papers has been accepted.
 - [Jul, 2021]: One [ICCV](http://iccv2021.thecvf.com/) paper has been accepted.
 - [Jul, 2020]: The [Training code and dataset](https://github.com/DreamtaleCore/USI3D) of our USI<sup>3</sup>D has been released.
