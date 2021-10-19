@@ -38,7 +38,7 @@ image:
   focal_point: Smart
   preview_only: false
   caption: Teaser Image
-date: 2021-09-01T14:07:22.714Z
+date: 2021-10-01T14:08:22.714Z
 
 links:
   - icon: ""
