@@ -39,7 +39,7 @@ links:
   - icon: ""
     icon_pack: fab
     name: PDF
-    url: https://arxiv.org/abs/tbd
+    url: https://arxiv.org/abs/2110.14404
   - url: https://github.com/DreamtaleCore/SCS-UIT
     name: Code
     icon_pack: fab
