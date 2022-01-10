@@ -10,6 +10,7 @@ authors:
   - Feng Lu
 publication: The ACM Transactions on Multimedia Computing, Communications, and Applications
 publication_short: TOMM
+summary: "The ACM Transactions on Multimedia Computing, Communications, and Applications *(TOMM)*"
 abstract: "Reflection is common in images capturing scenes behind
 a glass window, which is not only a disturbance visually but
 also influence the performance of other computer vision al-
