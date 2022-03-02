@@ -13,11 +13,11 @@ title: Recent News
 subtitle: ''
 
 ---
-- [Mar, 2022]: Two [CVPR](https://cvpr2022.thecvf.com/) paper has been accepted.
+- [Mar, 2022]: Two [CVPR](https://cvpr2022.thecvf.com/) papers have been accepted, project pages and codes are comming soon.
 - [Jan, 2022]: One [TOMM](https://dl.acm.org/journal/tomm) paper has been accepted.
 - [Dec, 2021]: One [IEEE-VR](https://ieeevr.org/2022/) paper has been accepted (**<span style="color:darkred;">Oral presentation</span>**).
 - [Oct, 2021]: One [BMVC](https://www.bmvc2021.com/) paper has been accepted.
-- [Aug, 2021]: Two [ISMAR](https://ismar21.org/) papers has been accepted.
+- [Aug, 2021]: Two [ISMAR](https://ismar21.org/) papers have been accepted.
 - [Jul, 2021]: One [ICCV](http://iccv2021.thecvf.com/) paper has been accepted.
 - [Jul, 2020]: The [Training code and dataset](https://github.com/DreamtaleCore/USI3D) of our USI<sup>3</sup>D has been released.
 - [Jun, 2020]: One [PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) (**<span style="color:darkred;">IF=16.389</span>**) paper has been accepted.
