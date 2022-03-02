@@ -13,7 +13,7 @@ title: Recent News
 subtitle: ''
 
 ---
-
+- [Mar, 2022]: Two [CVPR](https://cvpr2022.thecvf.com/) paper has been accepted.
 - [Jan, 2022]: One [TOMM](https://dl.acm.org/journal/tomm) paper has been accepted.
 - [Dec, 2021]: One [IEEE-VR](https://ieeevr.org/2022/) paper has been accepted (**<span style="color:darkred;">Oral presentation</span>**).
 - [Oct, 2021]: One [BMVC](https://www.bmvc2021.com/) paper has been accepted.
