@@ -1,17 +1,17 @@
 ---
 title: Yunfei Liu (刘云飞)
-role: Ph.D Student @ BUAA
-avatar_filename: avatar.jpg
+role: Researcher @ IDEA
+avatar_filename: avatar-1.jpg
 interests:
   - Computational Photography
-  - Computer Vision Tasks
+  - Computer Vision
   - Low-level Vision
   - Human-computer Interaction
   - AR/MR
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:lyunfei.buaa.edu.cn
+    link: mailto:liuyunfei.idea.edu.cn
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=B1Z1vTMAAAAJ
@@ -37,7 +37,9 @@ superuser: true
 highlight_name: false
 ---
 
-I am currently a five-year Ph.D student at Beihang University, under the supervision of Prof. [Feng Lu](http://shi.buaa.edu.cn/lufeng/en/index.htm). Previously, I received my BSc degree of Computer Science from Beijing Institute of Teachnology in 2017. 
+I am currently a five-year Ph.D student at Beihang University, under the supervision of Prof. [Feng Lu](http://shi.buaa.edu.cn/lufeng/en/index.htm).  
+
+I am a Researcher at International Digital Economy Academy (IDEA). I got my PhD degree from Beihang University, advised by Prof. [Feng Lu](http://shi.buaa.edu.cn/lufeng/en/index.htm). Previously, I received my BSc degree of Computer Science from Beijing Institute of Teachnology in 2017.
 
 **My research interests** include the intersection of machine learning, deep learning, pattern recognition, and statistical modeling/inference with applications for computer vision, computational phothography, low-level vision, human-computer interaction, and AR/MR. 
 
